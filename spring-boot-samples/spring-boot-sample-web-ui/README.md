@@ -1,7 +1,7 @@
 # kakaopay-devops
 > 2019 카카오페이 공채 경력 DevOps 과제
 
-Docker를 사용하여 spring-boot-sample-web-ui 어플리케이션을 빌드/배포 환경 구성하
+Docker를 사용하여 spring-boot-sample-web-ui 어플리케이션 빌드/배포 환경 구성하기
 
 ## Getting Started
 
